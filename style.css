@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.title {
+    margin: 20px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.score {
+    margin: 15px;
+    text-align: center;
+    font-size: 12px;
+}
+
+canvas {
+    background: #eee;
+    display: block;
+    margin: 0 auto;
+}
